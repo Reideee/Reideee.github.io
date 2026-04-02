@@ -32,11 +32,8 @@ I am a sophmore student at Centerville High School (Chs), with a focus on Softwa
 
 ## 📄 Certifications
 
-- **[Paper Title]**  
-  *Journal/Conference Name, Year*  
-  Authors: [Your Name, et al.]  
-  🔗 [Link to paper]
-
+- file:///Users/reide/Downloads/Certification.pdf
+- 
 ---
 
 ## 🏆 Academics
