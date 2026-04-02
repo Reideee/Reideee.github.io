@@ -39,21 +39,11 @@ I am a sophmore student at Centerville High School (Chs), with a focus on Softwa
 
 ---
 
-## 🏆 Awards & Achievements
+## 🏆 Academics
 
-- 🥇 [Award Name] — [Year]
-- 📜 [Scholarship/Fellowship]
-- 🎤 [Conference Presentation]
-
----
-
-## 🛠️ Skills
-
-**Programming:**  
-`Python` `R` `Java` `C++`
-
-**Tools & Technologies:**  
-`Git` `Docker` `LaTeX` `TensorFlow`
+- Sophmore student 3.6 Weighted Gpa
+- 
+- 
 
 ---
 
