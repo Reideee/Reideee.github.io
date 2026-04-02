@@ -6,7 +6,7 @@
 
 ## 🧑‍🎓 About Me
 
-I am a sophmore student at Centerville High School (Chs), with a focus on Software Engineering and Cybersecurity.
+I am a sophmore student at Centerville High School (Chs), with a focus on Software Engineering and Cybersecurity. 
 
 - 🔬 Currently Studying: Cybersecurity, Python, Javascript, C++
 - 📍 Location: Centerville, Ohio
@@ -54,11 +54,6 @@ I am a sophmore student at Centerville High School (Chs), with a focus on Softwa
 
 **Tools & Technologies:**  
 `Git` `Docker` `LaTeX` `TensorFlow`
-
-**Other:**  
-- Data Analysis
-- Scientific Writing
-- Public Speaking
 
 ---
 
